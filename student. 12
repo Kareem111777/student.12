@@ -1,0 +1,40 @@
+// Question 1
+let food = "rice";
+let drink = "water";
+
+console.log("I like " + food + " with " + drink);
+
+
+// Question 2
+let books = 4;
+let price = 200;
+
+let total = books * price;
+
+console.log("Total price: " + total + " naira");
+
+
+// Question 3
+let age = 11;
+
+if (age >= 12) {
+    console.log("You can join");
+} else {
+    console.log("You are too young");
+}
+
+
+// Question 4
+let numberOfBooks = 5;
+
+numberOfBooks = numberOfBooks + 1;
+
+console.log("Number of books: " + numberOfBooks);
+
+
+// Question 5
+let battery = 9;
+
+battery = battery - 1;
+
+console.log("Battery: " + battery);
